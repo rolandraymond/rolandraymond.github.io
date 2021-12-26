@@ -239,7 +239,3 @@ section.your-active-class .landing__container::after {
   font-size: 45px;
   color: #fff;
 }
-#navbar__list .menu__link a {
-  text-decoration: none;
-  color: #000;
-}
